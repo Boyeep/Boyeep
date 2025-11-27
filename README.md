@@ -8,25 +8,25 @@ I’m passionate about **coding, problem-solving, and building projects** that m
 
 ### 🔭 Currently Working On
 
-* 💻 Building **interactive web apps** using **React.js** and **Tailwind CSS** ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
-* 🤖 Exploring **AI and NLP projects** to understand how machines process language ![AI](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+* 💻 Building **interactive web apps** using **React.js** and **Tailwind CSS**
+* 🤖 Exploring **AI and NLP projects** to understand how machines process language
 
 ### 🌱 Currently Learning
 
-* 🗄 Advanced **backend development** and **database management** ![Database](https://media.giphy.com/media/3o7aCVG0f2Wn0Ek6YI/giphy.gif)
-* ☁️ **Cloud technologies** and **DevOps practices** ![Cloud](https://media.giphy.com/media/xT1XGzEku4nE8bN0vy/giphy.gif)
-* 🤓 Deepening my knowledge in **AI/ML models** ![ML](https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif)
+* 🗄 Advanced **backend development** and **database management**
+* ☁️ **Cloud technologies** and **DevOps practices**
+* 🤓 Deepening my knowledge in **AI/ML models**
 
 ### 👯 Looking to Collaborate On
 
-* 🌐 Open-source projects in **web development** ![Open Source](https://media.giphy.com/media/3o7aD6X4gQ4G9g1wA4/giphy.gif)
-* ⚡ AI-driven tools and **automation projects** ![Automation](https://media.giphy.com/media/l0HlPjezFf0N4W9fS/giphy.gif)
+* 🌐 Open-source projects in **web development**
+* ⚡ AI-driven tools and **automation projects**
 
 ### 💬 Ask Me About
 
-* 🐍 Programming in **Python, C, and JavaScript** ![Code](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)
-* 🖥 Building **full-stack projects** ![Fullstack](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
-* 🧩 Problem-solving & competitive programming ![Puzzle](https://media.giphy.com/media/xT1XGNcI0Jd0kZNsAg/giphy.gif)
+* 🐍 Programming in **Python, C, and JavaScript**
+* 🖥 Building **full-stack projects**
+* 🧩 Problem-solving & competitive programming
 
 ### 📫 How to Reach Me
 
@@ -43,9 +43,9 @@ I’m passionate about **coding, problem-solving, and building projects** that m
 
 ### 🏆 Projects I’m Proud Of
 
-* **Rock-Paper-Scissors Game (Python)** – A simple terminal game with HP system ![Game](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
-* **React Dashboard** – Interactive dashboard with charts and filters ![Dashboard](https://media.giphy.com/media/l0HlQ7LRal3n6cC2w/giphy.gif)
-* **AI Chatbot** – Built a small chatbot using NLP techniques ![Chatbot](https://media.giphy.com/media/26xBMuQZyG8cX7e8c/giphy.gif)
+* **Rock-Paper-Scissors Game (Python)** – A simple terminal game with HP system
+* **React Dashboard** – Interactive dashboard with charts and filters
+* **AI Chatbot** – Built a small chatbot using NLP techniques
 
 ---
 
