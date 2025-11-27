@@ -54,11 +54,3 @@ I’m passionate about **coding, problem-solving, and building projects** that m
 ![Boy Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boyeep\&show_icons=true\&theme=radical\&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boyeep\&layout=compact\&theme=radical)
-
----
-
-### 🖐 Visitor Badge
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=Boyeep\&color=blueviolet\&style=flat)
-
----
