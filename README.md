@@ -41,14 +41,6 @@ I’m passionate about **coding, problem-solving, and building projects** that m
 
 ---
 
-### 🏆 Projects I’m Proud Of
-
-* **Rock-Paper-Scissors Game (Python)** – A simple terminal game with HP system
-* **React Dashboard** – Interactive dashboard with charts and filters
-* **AI Chatbot** – Built a small chatbot using NLP techniques
-
----
-
 ### 📊 GitHub Stats
 
 ![Boy Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boyeep\&show_icons=true\&theme=radical\&count_private=true)
