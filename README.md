@@ -1,4 +1,4 @@
-## Hi there 👋, I’m Boy Steven
+## Hi there, I’m Boy Steven
 
 **Aspiring Developer | Tech Enthusiast | Lifelong Learner**
 
