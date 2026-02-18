@@ -41,8 +41,4 @@ I’m passionate about **coding, problem-solving, and building projects** that m
 
 ---
 
-### GitHub Stats
-
-![Boy Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boyeep\&show_icons=true\&theme=radical\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boyeep\&layout=compact\&theme=radical)
+![cat meme](DIRECT_GIF_URL_HERE)
