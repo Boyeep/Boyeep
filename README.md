@@ -1,32 +1,26 @@
 ## Hi there, I’m Boy Steven
 
-**Aspiring Developer | Tech Enthusiast | Lifelong Learner**
+**I just want to be a reliable developer without using Ai who knows what he's doing**
 
-I’m passionate about **coding, problem-solving, and building projects** that make life easier and more fun. I love diving into new technologies, especially **Python, TypeScript, React.js, and Tailwind CSS**.
+I’m passionate about **problem-solving and building projects**. I love **TypeScript, Next.js, Go, and Tailwind CSS**.
 
 ---
 
 ### Currently Working On
 
-* Building **interactive web apps** using **React.js** and **Tailwind CSS**
-* Exploring **AI and NLP projects** to understand how machines process language
+* Building **BEM-FTEIC Website** using **Typescript**, **Next.js** and **Tailwind CSS**
 
 ### Currently Learning
 
-* Advanced **backend development** and **database management**
-* **Cloud technologies** and **DevOps practices**
-* Deepening my knowledge in **AI/ML models**
+* **Go**, **Next.js**, **Typescript**, **Tailwind CSS**
 
 ### Looking to Collaborate On
 
-* Open-source projects in **web development**
-* AI-driven tools and **automation projects**
+* Projects in **web development**
 
 ### Ask Me About
 
-* Programming in **Python, C, and JavaScript**
-* Building **full-stack projects**
-* Problem-solving & competitive programming
+* Don't ask me
 
 ### How to Reach Me
 
@@ -36,8 +30,8 @@ I’m passionate about **coding, problem-solving, and building projects** that m
 
 ### Fun Fact
 
-* I enjoy **learning new coding tricks** and **experimenting with tech**
-* Always curious about **how things work under the hood**
+* I'm a fast learner
+* I'm a wannabe Jack of all trades master everything
 
 ---
 
