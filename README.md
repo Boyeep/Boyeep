@@ -32,6 +32,7 @@ I’m passionate about **problem-solving and building projects**. I love **TypeS
 
 * I'm a fast learner
 * I'm a wannabe Jack of all trades master everything
+* I mainly focus on front-end but I'm very interested on learning back-end & Ai
 
 ---
 
