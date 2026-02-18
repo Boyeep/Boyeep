@@ -41,6 +41,8 @@ I’m passionate about **coding, problem-solving, and building projects** that m
 
 ---
 
+![cat meme](./assets/cat.gif)
+
 <p align="center">
   <img src="./assets/cat.gif" width="250" height="200" />
 </p>
