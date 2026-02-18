@@ -1,6 +1,6 @@
 ## Hi there, I’m Boy Steven
 
-**I just want to be a reliable developer without using Ai who knows what he's doing**
+**I just want to be a reliable developer without using Ai who knows what he's doing :)**
 
 I’m passionate about **problem-solving and building projects**. I love **TypeScript, Next.js, Go, and Tailwind CSS**.
 
@@ -8,7 +8,7 @@ I’m passionate about **problem-solving and building projects**. I love **TypeS
 
 ### Currently Working On
 
-* **BEM-FTEIC Website** using **Typescript**, **Next.js** and **Tailwind CSS**
+* **BEM-FTEIC Website** using **Typescript**, **Next.js** and **Tailwind CSS** as a Front-end Developer
 
 ### Currently Learning
 
