@@ -41,4 +41,4 @@ I’m passionate about **coding, problem-solving, and building projects** that m
 
 ---
 
-![cat meme](./assets/cat-meme.mp4)
+![cat meme](./assets/cat-meme.gif)
