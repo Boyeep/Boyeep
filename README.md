@@ -8,7 +8,7 @@ I’m passionate about **problem-solving and building projects**. I love **TypeS
 
 ### Currently Working On
 
-* Building **BEM-FTEIC Website** using **Typescript**, **Next.js** and **Tailwind CSS**
+* **BEM-FTEIC Website** using **Typescript**, **Next.js** and **Tailwind CSS**
 
 ### Currently Learning
 
