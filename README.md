@@ -33,7 +33,7 @@ I’m passionate about **problem-solving and building projects**. I love **TypeS
 ### Fun Fact
 
 * I'm a fast learner
-* I'm a wannabe Jack of all trades master everything
+* I'm a wannabe Jack of all trades master of everything
 * I'm mainly focused on front-end but I'm very interested on learning back-end & Ai
 
 ---
