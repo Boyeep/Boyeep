@@ -9,6 +9,8 @@ I’m passionate about **problem-solving and building projects**. I love **TypeS
 ### Currently Working On
 
 * **BEM-FTEIC Website** using **Typescript**, **Next.js** and **Tailwind CSS** as a Front-end Developer
+* Trying to realize **boysteven.com**, **nugas.id**, **cerdik.id**, **imagilab.id**
+* **180DC ITS Website** as the Brand Website Analyst
 
 ### Currently Learning
 
