@@ -2,7 +2,7 @@
 
 **I just want to be a reliable developer without using Ai who knows what he's doing :)**
 
-I’m passionate about **problem-solving and building projects**. I love **TypeScript, Next.js, Go, and Tailwind CSS**.
+I’m passionate about **problem-solving and building projects**. I love **TypeScript, Next.js, Go, Tailwind CSS and c++**.
 
 ---
 
