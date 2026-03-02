@@ -16,6 +16,10 @@ I’m passionate about **problem-solving and building projects**. I love **TypeS
 
 * **Go**, **Next.js**, **Typescript**, **Tailwind CSS**
 
+### Interested on Learning
+
+* **Data Science**, **Quantitative Finance**
+
 ### Looking to Collaborate On
 
 * Projects in **web development**
