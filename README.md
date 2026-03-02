@@ -18,7 +18,7 @@ I’m passionate about **problem-solving and building projects**. I love **TypeS
 
 ### Interested on Learning
 
-* **Data Science**, **Quantitative Finance**
+* **Data Science**, **Quantitative Finance**, **Back-end Development**
 
 ### Looking to Collaborate On
 
@@ -38,7 +38,7 @@ I’m passionate about **problem-solving and building projects**. I love **TypeS
 
 * I'm a fast learner
 * I'm a wannabe Jack of all trades master of everything
-* I'm mainly focused on front-end but I'm very interested on learning back-end & Ai
+* I'm mainly focused on the Front-end side
 
 ---
 
