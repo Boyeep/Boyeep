@@ -20,6 +20,10 @@ I’m passionate about **problem-solving and building projects**. I love **TypeS
 
 * **Data Science**, **Quantitative Finance**, **Back-end Development**
 
+### What have i done
+
+* **ITTOKS** a grade input website for PE teacher (Not for Public!)
+
 ### Looking to Collaborate On
 
 * Projects in **web development**
