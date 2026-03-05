@@ -18,7 +18,7 @@ I’m passionate about **problem-solving and building projects**. I love **TypeS
 
 ### Interested on Learning
 
-* **Data Science**, **Quantitative Finance**, **Back-end Development**
+* **Data Science**, **Quantitative Finance**, **Fullstack Development**
 
 ### What Have I Done
 
