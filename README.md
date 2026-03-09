@@ -50,3 +50,5 @@ I’m passionate about **problem-solving and building projects**. I love **TypeS
 <p align="center">
   <img src="./assets/cat-meme.gif" width="250" height="200" />
 </p>
+
+Mati muda karna sisops & strukdat
