@@ -11,7 +11,7 @@ I’m passionate about **problem-solving and building projects**. I love **TypeS
 * **BEM-FTEIC Website** using **Typescript**, **Next.js** and **Tailwind CSS** as a Front-end Developer
 * Trying to realize **boysteven.com**, **nugas.id**, **cerdik.id**, **imagilab.id**
 * **180DC ITS Website** as the Brand Website Analyst
-* https://flippy-playground.vercel.app (Continuing Where I Left off)
+* https://flippy-playground.vercel.app (Continuing where I left off)
 
 ### Currently Learning
 
