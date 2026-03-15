@@ -25,6 +25,7 @@ I’m passionate about **problem-solving and building projects**. I love **TypeS
 
 * Paid project / commission from a client for **ITTOKS** a grade input website for PE teacher (Not for Public!)
 * https://bem-fteic-playground.vercel.app
+* https://github.com/Boyeep/nextjs-go-monorepo-kit
 
 ### Looking to Collaborate On
 
@@ -45,11 +46,3 @@ I’m passionate about **problem-solving and building projects**. I love **TypeS
 * I'm a fast learner
 * I'm a wannabe Jack of all trades master of everything
 * I'm mainly focused on the Front-end side
-
----
-
-<p align="center">
-  <img src="./assets/cat-meme.gif" width="250" height="200" />
-</p>
-
-Mati muda karna sisops & strukdat
