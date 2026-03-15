@@ -12,6 +12,7 @@ I’m passionate about **problem-solving and building projects**. I love **TypeS
 * Trying to realize **boysteven.com**, **nugas.id**, **cerdik.id**, **imagilab.id**
 * **180DC ITS Website** as the Brand Website Analyst
 * https://flippy-playground.vercel.app (Continuing where I left off)
+* https://github.com/Boyeep/nextjs-go-monorepo-kit
 
 ### Currently Learning
 
@@ -25,7 +26,6 @@ I’m passionate about **problem-solving and building projects**. I love **TypeS
 
 * Paid project / commission from a client for **ITTOKS** a grade input website for PE teacher (Not for Public!)
 * https://bem-fteic-playground.vercel.app
-* https://github.com/Boyeep/nextjs-go-monorepo-kit
 
 ### Looking to Collaborate On
 
