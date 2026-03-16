@@ -14,13 +14,9 @@ I’m passionate about **problem-solving and building projects**. I love **TypeS
 * https://flippy-playground.vercel.app (Continuing where I left off)
 * https://github.com/Boyeep/nextjs-go-monorepo-kit
 
-### Currently Learning
+### Currently Learning & Interested on Learning
 
-* **Go**, **Next.js**, **Typescript**, **Tailwind CSS**
-
-### Interested on Learning
-
-* **Data Science**, **Quantitative Finance**, **Fullstack Development**
+* **Go**, **Next.js**, **Typescript**, **Tailwind CSS** / **Data Science**, **Quantitative Finance**, **Fullstack Development**
 
 ### What Have I Done
 
