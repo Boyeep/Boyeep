@@ -29,20 +29,10 @@ I’m passionate about **problem-solving and building projects**. I love **TypeS
 
 ### Looking to Collaborate On
 
-* Projects in **web development**
-
-### Ask Me About
-
-* Don't ask me
+* Projects in **Web Development**
 
 ### How to Reach Me
 
 * Email: `boy.sb.aritonang@gmail.com`
 * LinkedIn: [linkedin.com/in/boysteven](https://linkedin.com/in/boysteven)
 * Instagram: [@boysteven1211](https://instagram.com/boysteven1211)
-
-### Fun Fact
-
-* I'm a fast learner
-* I'm a wannabe Jack of all trades master of everything
-* I'm mainly focused on the Front-end side
