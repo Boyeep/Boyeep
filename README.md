@@ -13,6 +13,7 @@ I’m passionate about **Problem-Solving and Building Projects**. Stack I love i
 * **180DC ITS Website** as the Brand Website Analyst
 * https://flippy-playground.vercel.app (Continuing where I left off)
 * https://github.com/Boyeep/nextjs-go-monorepo-kit
+* https://github.com/Boyeep/nextjs-python-computer-vision-kit
 
 ### Currently Learning & Interested on Learning
 
