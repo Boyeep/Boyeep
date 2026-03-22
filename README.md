@@ -27,9 +27,3 @@ I’m passionate about **Problem-Solving and Building Projects**. Stack I love i
 ### Looking to Collaborate On
 
 * Projects in **Web Development**
-
-### How to Reach Me
-
-* Email: `boy.sb.aritonang@gmail.com`
-* LinkedIn: [linkedin.com/in/boysteven](https://linkedin.com/in/boysteven)
-* Instagram: [@boysteven1211](https://instagram.com/boysteven1211)
