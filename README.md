@@ -13,7 +13,7 @@ I’m passionate about **Problem-Solving and Building Projects**. Stack I love i
 * **180DC ITS Website** as the Brand Website Analyst
 * [flippy.boysteven.com](https://flippy.boysteven.com) (Continuing where I left off)
 * [next-go.boysteven.com](https://next-go.boysteven.com)
-* https://github.com/Boyeep/nextjs-python-computer-vision-kit
+* [next-cv.boysteven.com](https://next-cv.boysteven.com)
 
 ### Currently Learning & Interested on Learning
 
