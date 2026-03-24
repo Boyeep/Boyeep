@@ -11,7 +11,7 @@ I’m passionate about **Problem-Solving and Building Projects**. Stack I love i
 * **BEM-FTEIC Website** using **Typescript**, **Next.js** and **Tailwind CSS** as a ~~Front-end Developer~~ (Fullstack-Developer xD)
 * Trying to realize **boysteven.com**, **nugas.id**, **cerdik.id**, **imagilab.id**
 * **180DC ITS Website** as the Brand Website Analyst
-* https://flippy-playground.vercel.app (Continuing where I left off)
+* https://flippy.boysteven.com (Continuing where I left off)
 * https://github.com/Boyeep/nextjs-go-monorepo-kit
 * https://github.com/Boyeep/nextjs-python-computer-vision-kit
 
