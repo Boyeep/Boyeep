@@ -12,7 +12,7 @@ I’m passionate about **Problem-Solving and Building Projects**. Stack I love i
 * Trying to realize **boysteven.com**, **nugas.id**, **cerdik.id**, **imagilab.id**
 * **180DC ITS Website** as the Brand Website Analyst
 * [flippy.boysteven.com](https://flippy.boysteven.com) (Continuing where I left off)
-* https://github.com/Boyeep/nextjs-go-monorepo-kit
+* [next-go.boysteven.com](https://next-go.boysteven.com)
 * https://github.com/Boyeep/nextjs-python-computer-vision-kit
 
 ### Currently Learning & Interested on Learning
