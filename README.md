@@ -20,7 +20,7 @@ I’m passionate about **Problem-Solving and Building Projects**. Stack I love i
 ### What Have I Done
 
 * Paid project / commission from a client for **ITTOKS** a grade input website for PE teacher (Not for Public!)
-* [BEM FTEIC Website Preview](https://bem-fteic-playground.vercel.app)
+* [BEM-FTEIC Website Preview](https://bem-fteic-playground.vercel.app)
 
 ### Looking to Collaborate On
 
