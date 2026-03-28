@@ -11,7 +11,7 @@ I’m passionate about **Problem-Solving and Building Projects**. Stack I love i
 * **BEM-FTEIC Website** using **Typescript**, **Next.js** and **Tailwind CSS** as a Front-end Developer
 * Trying to realize **boysteven.com**, **nugas.id**, **cerdik.id**, **imagilab.id**
 * **180DC ITS Website** as the Brand Website Analyst
-* Give it a try! -> [next-go.boysteven.com](https://next-go.boysteven.com) - [next-cv.boysteven.com](https://next-cv.boysteven.com) / [flippy.boysteven.com](https://flippy.boysteven.com) - [imagilab.id](https://imagilab.id)
+* Give it a try! -> [Nextjs & go Template](https://next-go.boysteven.com) - [Nextjs & CV Template](https://next-cv.boysteven.com) / [Flippy](https://flippy.boysteven.com) - [Imagilab.id](https://imagilab.id)
 
 ### Currently Learning & Interested on Learning
 
@@ -20,7 +20,7 @@ I’m passionate about **Problem-Solving and Building Projects**. Stack I love i
 ### What Have I Done
 
 * Paid project / commission from a client for **ITTOKS** a grade input website for PE teacher (Not for Public!)
-* [bem-fteic-playground.vercel.app](https://bem-fteic-playground.vercel.app)
+* [BEM FTEIC Website Preview](https://bem-fteic-playground.vercel.app)
 
 ### Looking to Collaborate On
 
