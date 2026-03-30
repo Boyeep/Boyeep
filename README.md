@@ -2,7 +2,7 @@
 
 **I just want to be a reliable developer without using Ai who knows what he's doing :)**
 
-I’m passionate about **Problem-Solving** and **Building Projects**. Stack I love includes **TypeScript, Next.js, Go, Tailwind CSS** & **C++** I also love **Documenting** my Project, **DevOps**, **CI/CD** & **Modularization**. I understand **Fullstack** & can make a website solo.
+I’m passionate about **Problem-Solving** and **Building Projects**. Stack I love includes **TypeScript, Next.js, Go, Tailwind CSS** & **C++** I also love **Documenting** my Project, **DevOps**, **CI/CD** & **Modularization**. I understand **Fullstack** & can make a website **solo**.
 
 ---
 
@@ -15,7 +15,7 @@ I’m passionate about **Problem-Solving** and **Building Projects**. Stack I lo
 
 ### Currently Learning & Interested on Learning
 
-* **Go**, **Next.js**, **Typescript**, **Tailwind CSS** / **Data Science**, **Quantitative Finance**, **Fullstack Development**
+* **Go**, **Next.js**, **Typescript**, **Tailwind CSS** / **Data Science**, **Quantitative Finance**, **Fullstack Development**, **Cybersecurity** / **CTF**, **Robotics**
 
 ### What Have I Done
 
