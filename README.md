@@ -21,6 +21,7 @@ I’m passionate about **Problem-Solving** and **Building Projects**. Stack I lo
 
 * Paid project / commission from a client for **ITTOKS** a grade input website for PE teacher (Not for Public!)
 * [BEM-FTEIC Website Preview](https://bem-fteic-playground.vercel.app)
+* 2 Open source contributions & Counting
 
 ### Looking to Collaborate On
 
