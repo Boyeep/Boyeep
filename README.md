@@ -15,7 +15,7 @@ I’m passionate about **Problem-Solving** and **Building Projects**. Stack I lo
 
 ### Currently Learning & Interested on Learning
 
-* **Go**, **Next.js**, **Typescript**, **Tailwind CSS** / **Data Science**, **Quantitative Finance**, **Cybersecurity** / **CTF**, **Robotics**
+* **Go**, **Next.js**, **Typescript**, **Tailwind CSS** & **Data Science**, **Quantitative Finance**, **Cybersecurity** / **CTF**, **Robotics**
 
 ### What Have I Done
 
