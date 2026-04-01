@@ -20,7 +20,7 @@ I’m passionate about **Problem-Solving** and **Building Projects**. Stack I lo
 ### What Have I Done
 
 * Paid project / commission from a client for **ITTOKS** a grade input website for PE teacher (Not for Public!)
-* 3 Open source contributions & Counting
+* 3 **[Open source contributions](https://github.com/Boyeep/Open-Source-Contributions)** & Counting
 
 ### Looking to Collaborate On
 
