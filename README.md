@@ -8,10 +8,10 @@ I’m passionate about **Problem-Solving** and **Building Projects**. Stack I lo
 
 ### Currently Working On
 
-* **BEM-FTEIC Website** using **Typescript**, **Next.js** and **Tailwind CSS** as the Front-end Developer
+* **[BEM-FTEIC Website](https://bem-fteic-playground.vercel.app)** using **Typescript**, **Next.js** and **Tailwind CSS** as the Front-end Developer
 * Trying to realize **boysteven.com**, **nugas.id**, **cerdik.id**, **imagilab.id**
-* **180DC ITS Website** as the Brand Website Analyst
-* Give it a try! -> [Nextjs & Go Template](https://next-go.boysteven.com) - [Nextjs & CV Template](https://next-cv.boysteven.com) / [Flippy](https://flippy.boysteven.com) - [Imagi.lab](https://imagilab.id) - [180DC-ITS](https://180dcits.com/)
+* **[180DC ITS Website](https://180dcits.com)** as the Brand Website Analyst
+* Give it a try! -> [Nextjs & Go Template](https://next-go.boysteven.com) - [Nextjs & CV Template](https://next-cv.boysteven.com) / [Flippy](https://flippy.boysteven.com) - [Imagi.lab](https://imagilab.id)
 
 ### Currently Learning & Interested on Learning
 
@@ -20,7 +20,6 @@ I’m passionate about **Problem-Solving** and **Building Projects**. Stack I lo
 ### What Have I Done
 
 * Paid project / commission from a client for **ITTOKS** a grade input website for PE teacher (Not for Public!)
-* [BEM-FTEIC Website Preview](https://bem-fteic-playground.vercel.app)
 * 3 Open source contributions & Counting
 
 ### Looking to Collaborate On
