@@ -21,6 +21,7 @@ I’m passionate about **Problem-Solving** and **Building Projects**. Stack I lo
 
 * Paid project / commission from a client for **ITTOKS** a grade input website for PE teacher (Not for Public!)
 * 3 **[Open source contributions](https://github.com/Boyeep/Open-Source-Contributions)** & Counting
+* **[GDGoC Task-1](https://gdgoc-task1-boy.vercel.app)**
 
 ### Looking to Collaborate On
 
