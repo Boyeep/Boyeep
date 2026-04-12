@@ -9,7 +9,7 @@ I’m passionate about **Problem-Solving** and **Building Projects**. Stack I lo
 ### Currently Working On
 
 * **[BEM-FTEIC Website](https://bem-fteic-playground.vercel.app)** using **Typescript**, **Next.js** and **Tailwind CSS** as the **Front-end Developer**
-* Trying to realize **boysteven.com**, **nugas.id**, **cerdik.id**, **[Imagilab.id](https://imagilab.id)**, **[Flippy](https://flippy.boysteven.com)**
+* Trying to realize **[boysteven.com](https://boysteven.com)**, **nugas.id**, **cerdik.id**, **[Imagilab.id](https://imagilab.id)**, **[Flippy](https://flippy.boysteven.com)**
 * **[180DC ITS Website](https://180dcits.com)** as the **Brand Website Analyst**
 * Give it a try! -> **[Nextjs & Go Template](https://next-go.boysteven.com)** - **[Nextjs & CV Template](https://next-cv.boysteven.com)**
 
