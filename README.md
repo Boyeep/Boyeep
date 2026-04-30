@@ -24,4 +24,4 @@ I’m passionate about **Problem-Solving** and **Building Projects**. Stack I lo
 
 ### Looking to Collaborate On
 
-* Projects in **Web Development**
+* Projects in **Web Development & AI/ML**
