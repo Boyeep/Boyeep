@@ -25,3 +25,7 @@ I’m passionate about **Problem-Solving** and **Building Projects**. Stack I lo
 ### Looking to Collaborate On
 
 * Projects in **Web Development & AI/ML**
+
+### Shortcuts (Ignore This)
+
+* [Schematics Repo](https://github.com/schematics-itdev)
