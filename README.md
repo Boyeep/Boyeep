@@ -29,4 +29,4 @@ I’m passionate about **Problem-Solving** and **Building Projects**. Stack I lo
 
 ### Shortcuts (Ignore This)
 
-* [Schematics Repo](https://github.com/schematics-itdev)
+* [Schematics Repo](https://github.com/schematics-itdev?tab=repositories)
