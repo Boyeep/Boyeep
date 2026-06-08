@@ -15,9 +15,9 @@ I’m passionate about **Problem-Solving** and **Building Projects**. Stack I lo
 * **Surabaya MUN Website** as **Front-end Developer**
 * Give it a try! -> **[Nextjs & Go Template](https://next-go.boysteven.com)** - **[Nextjs & CV Template](https://next-cv.boysteven.com)**
 
-### Currently Learning & Interested on Learning
+### Interested on Learning
 
-* **Go**, **Next.js**, **Typescript**, **Tailwind CSS** & **Data Science**, **Quantitative Finance**, **Cybersecurity** / **CTF**, **Robotics**
+* **Data Science**, **Quantitative Finance**, **Cybersecurity** / **CTF**, **Robotics**
 
 ### What Have I Done
 
