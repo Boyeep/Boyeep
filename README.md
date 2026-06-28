@@ -13,6 +13,7 @@ I’m passionate about **Problem-Solving** and **Building Projects**. Stack I lo
 * **[180DC ITS Website](https://180dcits.com)** as **Brand Website Analyst** working **Fullstack**
 * **[Schematics Website](https://www.schematics-its.com/)** as **Deputy Head of Web Development** working **Fullstack**
 * **Surabaya MUN Website** as **Front-end Developer**
+* **Gerigi x UKM Expo Website** as **Front-end Developer**
 * Give it a try! -> **[Nextjs & Go Template](https://next-go.boysteven.com)** - **[Nextjs & CV Template](https://next-cv.boysteven.com)**
 
 ### Interested on Learning
