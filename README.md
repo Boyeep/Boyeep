@@ -9,7 +9,7 @@ I’m passionate about **Problem-Solving** and **Building Projects**. Stack I lo
 ### Currently Working On
 
 * Trying to realize **[boysteven.com](https://boysteven.com)**, **nugas.id**, **cerdik.id**, **[Imagilab.id](https://imagilab.id)**, **Flippy**
-* **[BEM-FTEIC Website](https://bem-fteic-playground.vercel.app)** as **Front-end Developer** working **Fullstack**
+* **[BEM-FTEIC Website](https://bem-fteic.com)** as **Front-end Developer** working **Fullstack**
 * **[180DC ITS Website](https://180dcits.com)** as **Brand Website Analyst** working **Fullstack**
 * **[Schematics Website](https://www.schematics-its.com)** as **Deputy Head of Web Development** working **Fullstack**
 * **[Surabaya MUN Website](https://www.instagram.com/surabayamun)** as **Front-end Developer**
