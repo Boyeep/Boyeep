@@ -11,7 +11,6 @@ I'm lnterested on learning **Data Science**, **Quantitative Finance**, **Cyberse
 ### Currently Working On
 
 * Trying to realize **[boysteven.com](https://boysteven.com)**, **nugas.id**, **cerdik.id**, **[Imagilab.id](https://imagilab.id)**, **Flippy**
-* **[BEM-FTEIC Website](https://bem-fteic.com)** as **Front-end Developer** working **Fullstack**
 * **[180DC ITS Website](https://180dcits.com)** as **Brand Website Analyst** working **Fullstack**
 * **[Schematics Website](https://www.schematics-its.com)** as **Deputy Head of Web Development** working **Fullstack**
 * **[Surabaya MUN Website](https://www.instagram.com/surabayamun)** as **Front-end Developer**
@@ -22,3 +21,4 @@ I'm lnterested on learning **Data Science**, **Quantitative Finance**, **Cyberse
 
 * Paid project / commission from a client for **ITTOKS** a grade input website for PE teacher (Not for Public!)
 * 5 **[Open source contributions](https://github.com/Boyeep/Open-Source-Contributions)** & Counting
+* **[BEM-FTEIC Website](https://bem-fteic.com)** as **Front-end Developer** working **Fullstack**
