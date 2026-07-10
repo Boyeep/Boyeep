@@ -2,7 +2,7 @@
 
 **I just want to be a reliable developer without using Ai who knows what he's doing :)**
 
-I’m passionate about **Problem-Solving** and **Building Projects**. Stack I love includes **TypeScript, Next.js, Go, Tailwind CSS** & **C++** I also love **Documenting** my Project, **DevOps**, **CI/CD** & **Modularization**. I understand **Fullstack** & can make a website **Solo**.
+I’m passionate about **Problem-Solving** and **Building Projects**. Stack I love includes **TypeScript, Next.js, Go, Tailwind CSS** & **C++** I also love **Documenting** my Project, **DevOps**, **CI/CD** & **Modularization**. I understand **Fullstack** & can make a website **Solo**. I'm Interested on Learning **Data Science**, **Quantitative Finance**, **Cybersecurity** / **CTF**, **Robotics**
 
 ---
 
@@ -15,10 +15,6 @@ I’m passionate about **Problem-Solving** and **Building Projects**. Stack I lo
 * **[Surabaya MUN Website](https://www.instagram.com/surabayamun)** as **Front-end Developer**
 * **[Gerigi x UKM Expo Website](https://www.gerigixukmexpoits.id)** as **Front-end Developer**
 * Give it a try! -> **[Nextjs & Go Template](https://next-go.boysteven.com)** - **[Nextjs & CV Template](https://next-cv.boysteven.com)**
-
-### Interested on Learning
-
-* **Data Science**, **Quantitative Finance**, **Cybersecurity** / **CTF**, **Robotics**
 
 ### What Have I Done
 
