@@ -30,3 +30,4 @@ I'm lnterested on learning **Data Science**, **Quantitative Finance**, **Cyberse
 ### Extra
 
 * **[Open source contributions](https://github.com/Boyeep/Open-Source-Contributions)**
+* **[Certification](https://drive.google.com/drive/folders/1Iyn6x6cTkfPo4yEyFAUHReNHJy_K3vPm?usp=sharing)**
