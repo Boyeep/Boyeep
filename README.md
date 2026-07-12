@@ -18,7 +18,7 @@ I'm lnterested on learning **Data Science**, **Quantitative Finance**, **Cyberse
 
 ### Side Projects
 
-* **[boysteven.com](https://boysteven.com)**, **nugas.id**, **cerdik.id**, **[Imagilab.id](https://imagilab.id)**, **Flippy**
+* **[Boysteven.com](https://boysteven.com)**, **Nugas.id**, **Cerdik.id**, **[Imagilab.id](https://imagilab.id)**, **Flippy**
 * Give it a try! -> **[Nextjs & Go Template](https://next-go.boysteven.com)** - **[Nextjs & CV Template](https://next-cv.boysteven.com)**
 
 ### What Have I Done
