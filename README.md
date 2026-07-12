@@ -2,6 +2,10 @@
 
 **I just want to be a reliable developer without using Ai who knows what he's doing :)**
 
+I’m passionate about **Problem-Solving** and **Building Projects**. Stack I love includes **TypeScript, Next.js, Go, Tailwind CSS** & **C++** I also love **Documenting** my Project, **DevOps**, **CI/CD** & **Modularization**. I understand **Fullstack** & can make a website **Solo**. 
+  
+I'm lnterested on learning **Data Science**, **Quantitative Finance**, **Cybersecurity** / **CTF**, **Robotics**. I'm looking to collaborate on projects in **Web Development & AI/ML**.
+
 ---
 
 ### Currently Working On
