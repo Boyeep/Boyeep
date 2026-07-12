@@ -24,7 +24,8 @@ I'm lnterested on learning **Data Science**, **Quantitative Finance**, **Cyberse
 ### What Have I Done
 
 * **[BEM-FTEIC Website](https://bem-fteic.com)** as **Front-end Developer** - [2026]
-* **ITTOKS** a paid project as **Fullstack Developer** - [2025]
+* **ITTOKS Website** a paid project as **Fullstack Developer** - [2025]
+* **Choice Studio Intern** as **Front-end Developer** - [2025]
 
 ### Extra
 
