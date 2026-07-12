@@ -25,4 +25,4 @@ I'm lnterested on learning **Data Science**, **Quantitative Finance**, **Cyberse
 
 * **[BEM-FTEIC Website](https://bem-fteic.com)** as **Front-end Developer** - [2026]
 * **ITTOKS** a paid project as **Fullstack Developer** - [2025]
-* 5 **[Open source contributions](https://github.com/Boyeep/Open-Source-Contributions)** & Counting
+* **[Open source contributions](https://github.com/Boyeep/Open-Source-Contributions)**
