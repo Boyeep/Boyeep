@@ -2,8 +2,6 @@
 
 **I just want to be a reliable developer without using Ai who knows what he's doing :)**
 
-**I like to keep things simple & organized**
-
 ---
 
 ### Currently Working On
