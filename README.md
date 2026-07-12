@@ -11,11 +11,11 @@ I'm lnterested on learning **Data Science**, **Quantitative Finance**, **Cyberse
 ### Currently Working On
 
 * Trying to realize **[boysteven.com](https://boysteven.com)**, **nugas.id**, **cerdik.id**, **[Imagilab.id](https://imagilab.id)**, **Flippy**
-* **[180DC ITS Website](https://180dcits.com)** as **Brand Website Analyst** working **Fullstack**
 * **[Schematics Website](https://www.schematics-its.com)** as **Deputy Head of Web Development** working **Fullstack**
+* **[SRE ITS Website](https://www.sre-its.com/)** as **Manager Front-end**
+* **[180DC ITS Website](https://180dcits.com)** as **Brand Website Analyst** working **Fullstack**
 * **[Surabaya MUN Website](https://www.instagram.com/surabayamun)** as **Front-end Developer**
 * **[Gerigi x UKM Expo Website](https://www.gerigixukmexpoits.id)** as **Front-end Developer**
-* **[SRE ITS Website](https://www.sre-its.com/)** as **Manager Front-end**
 * Give it a try! -> **[Nextjs & Go Template](https://next-go.boysteven.com)** - **[Nextjs & CV Template](https://next-cv.boysteven.com)**
 
 ### What Have I Done
