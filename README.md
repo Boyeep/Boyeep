@@ -10,12 +10,15 @@ I'm lnterested on learning **Data Science**, **Quantitative Finance**, **Cyberse
 
 ### Currently Working On
 
-* Trying to realize **[boysteven.com](https://boysteven.com)**, **nugas.id**, **cerdik.id**, **[Imagilab.id](https://imagilab.id)**, **Flippy**
 * **[Schematics Website](https://www.schematics-its.com)** as **Deputy Head of Web Development** - [2026]
 * **[SRE ITS Website](https://www.sre-its.com/)** as **Manager Front-end** - [2026]
 * **[180DC ITS Website](https://180dcits.com)** as **Brand Website Analyst** - [2026]
 * **[Surabaya MUN Website](https://www.instagram.com/surabayamun)** as **Front-end Developer** - [2026]
 * **[Gerigi x UKM Expo Website](https://www.gerigixukmexpoits.id)** as **Front-end Developer** - [2026]
+
+### Side Projects
+
+* Trying to realize **[boysteven.com](https://boysteven.com)**, **nugas.id**, **cerdik.id**, **[Imagilab.id](https://imagilab.id)**, **Flippy**
 * Give it a try! -> **[Nextjs & Go Template](https://next-go.boysteven.com)** - **[Nextjs & CV Template](https://next-cv.boysteven.com)**
 
 ### What Have I Done
