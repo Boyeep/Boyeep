@@ -15,7 +15,7 @@ I'm lnterested on learning **Data Science**, **Quantitative Finance**, **Cyberse
 * **[Schematics Website](https://www.schematics-its.com)** as **Deputy Head of Web Development** - [2026]
 * **[Petrolida Website](http://petrolida.com)** as **Manager Front-end** - [2026]
 * **[SRE ITS Website](https://www.sre-its.com)** as **Manager Front-end** - [2026]
-* **Ini Lho ITS Website** as **Front-end Expert** - [2026]
+* **[Ini Lho ITS Website](https://inilho.its.ac.id)** as **Front-end Expert** - [2026]
 * **[180DC ITS Website](https://180dcits.com)** as **Brand Website Analyst** - [2026]
 
 ### Side Projects
