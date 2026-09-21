@@ -13,7 +13,7 @@ I'm lnterested on learning **Data Science**, **Quantitative Finance**, **Cyberse
 * **[Asah](https://www.dicoding.com/asah)** Cohort as **AI Full-Stack Developer** - [2026]
 * **Surabaya MUN Website** as **Head of Web Development** - [2026]
 * **[Schematics Website](https://www.schematics-its.com)** as **Deputy Head of Web Development** - [2026]
-* **Petrolida Website** as **Manager Front-end** - [2026]
+* **[Petrolida Website](http://petrolida.com)** as **Manager Front-end** - [2026]
 * **[SRE ITS Website](https://www.sre-its.com)** as **Manager Front-end** - [2026]
 * **Ini Lho ITS Website** as **Front-end Expert** - [2026]
 * **[180DC ITS Website](https://180dcits.com)** as **Brand Website Analyst** - [2026]
@@ -21,7 +21,7 @@ I'm lnterested on learning **Data Science**, **Quantitative Finance**, **Cyberse
 ### Side Projects
 
 * **[Boysteven.com](https://boysteven.com)**, **[Imagilab.id](https://imagilab.id)**, **Nugas.id**, **Cerdik.id**, **Flippy**
-* Give it a try! -> **[Nextjs & Go Template](https://next-go.boysteven.com)** - **[Nextjs & CV Template](https://next-cv.boysteven.com)** - **[Nextjs-Bun Template](https://next-bun.boysteven.com/)**
+* Give it a try! -> **[Nextjs & Go Template](https://next-go.boysteven.com)** - **[Nextjs & CV Template](https://next-cv.boysteven.com)** - **[Nextjs-Bun Template](https://next-bun.boysteven.com)**
 
 ### What Have I Done
 
