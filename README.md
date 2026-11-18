@@ -20,7 +20,6 @@ I'm lnterested on learning **Data Science**, **Quantitative Finance**, **Cyberse
 
 ### Side Projects
 
-* **[Boysteven.com](https://boysteven.com)**
 * Give it a try! -> **[Nextjs & Go Template](https://next-go.boysteven.com)** - **[Nextjs & CV Template](https://next-cv.boysteven.com)** - **[Nextjs-Bun Template](https://next-bun.boysteven.com)**
 
 ### What Have I Done
