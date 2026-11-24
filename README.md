@@ -12,7 +12,6 @@ I'm lnterested on learning **Data Science**, **Quantitative Finance**, **Cyberse
 
 * **[Asah](https://www.dicoding.com/asah)** Cohort as **AI Full-Stack Developer** - [2026]
 * **[Surabaya MUN Website](https://surabayamun.org)** as **Head of Web Development** - [2026]
-* **[Schematics Website](https://www.schematics-its.com)** as **Deputy Head of Web Development** - [2026]
 * **[Petrolida Website](http://petrolida.com)** as **Manager Front-end** - [2026]
 * **[SRE ITS Website](https://www.sre-its.com)** as **Manager Front-end** - [2026]
 * **[Ini Lho ITS Website](https://inilho.its.ac.id)** as **Front-end Expert** - [2026]
@@ -24,6 +23,7 @@ I'm lnterested on learning **Data Science**, **Quantitative Finance**, **Cyberse
 
 ### What Have I Done
 
+* **[Schematics Website](https://www.schematics-its.com)** as **Deputy Head of Web Development** - [2026]
 * **[Gerigi x UKM Expo Website](https://www.gerigixukmexpoits.id)** as **Front-end Developer** - [2026]
 * **[SPMB Jatim Website](https://spmbjatim.net)** as **Junior Front-end Developer** - [2026]
 * **[BEM-FTEIC Website](https://bem-fteic.com)** as **Front-end Developer** - [2026]
